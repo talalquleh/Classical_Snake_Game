@@ -1,6 +1,6 @@
 # Classical_Snake_Game
-classical snake Game using Java.<br/>
-implemented functionalities: obstacles,Levels and Database connection.<br/>
+Classical snake Game using Java.<br/>
+Implemented functionalities: obstacles,Levels and Database connection.<br/>
 <h2>Game Description</h2>
 We have a rattlesnake in a desert, and our snake is initially two
 units long (head and rattler). We have to collect with our snake
